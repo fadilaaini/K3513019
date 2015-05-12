@@ -1,6 +1,6 @@
 <?php
 //komentarA
-//komentarB
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
